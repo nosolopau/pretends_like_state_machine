@@ -1,9 +1,8 @@
-pretends\_like\_state\_machine
--------------------
+# pretends\_like\_state\_machine
 
 A minimal, trivial, deadly simple state machine for Mongoid :)
 
-# Example
+## Example
 
 Just add the macro `pretends_like_state_machine` and provide a list of the valid states. 
 
@@ -23,6 +22,6 @@ Usage:
     processing.waiting?
     => true
 
-# License
+## License
 
 MIT License. Copyright 2012-2014 RubyMoney.
