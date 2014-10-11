@@ -1,7 +1,7 @@
 pretends\_like\_state\_machine
 -------------------
 
-A minimal, trivial deadly simple state machine for Mongoid :)
+A minimal, trivial, deadly simple state machine for Mongoid :)
 
 # Example
 

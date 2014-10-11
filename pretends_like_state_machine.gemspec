@@ -10,8 +10,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Pablo Torrecilla"]
   s.email       = ["pau@nosolopau.com"]
   s.homepage    = "http://nosolopau.com"
-  s.summary     = "A minimal, trivial deadly simple state machine for Mongoid"
-  s.description = "A minimal, trivial deadly simple state machine for Mongoid"
+  s.summary     = "A minimal, trivial, deadly simple state machine for Mongoid"
+  s.description = "A minimal, trivial, deadly simple state machine for Mongoid"
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
