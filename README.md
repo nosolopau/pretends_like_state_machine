@@ -6,6 +6,12 @@
 
 A minimal, trivial, deadly simple state machine for Mongoid :)
 
+## Installation
+
+Add to your Gemfile:
+
+    gem 'pretends_like_state_machine', '~> 0.0.1'
+
 ## Example
 
 Just add the macro `pretends_like_state_machine` and provide a list of the valid states. 
@@ -13,9 +19,9 @@ Just add the macro `pretends_like_state_machine` and provide a list of the valid
 Declaration:
 
     class Processing
-        include Mongoid::Document
+      include Mongoid::Document
     
-        pretends_like_state_machine states: [:waiting, :processing, :processed]
+      pretends_like_state_machine states: [:waiting, :processing, :processed]
     end
     
 Usage:
