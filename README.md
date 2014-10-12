@@ -34,4 +34,4 @@ Usage:
 
 ## License
 
-MIT License. Copyright 2012-2014 RubyMoney.
+MIT License. Copyright 2012-2014 @nosolopau.
