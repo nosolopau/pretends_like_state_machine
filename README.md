@@ -11,7 +11,7 @@ A minimal, trivial, deadly simple state machine for Mongoid :)
 
 Add to your Gemfile:
 
-    gem 'pretends_like_state_machine', '~> 0.0.1'
+    gem 'pretends_like_state_machine', '~> 0.0.2'
 
 ## Example
 
