@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/nosolopau/pretends_like_state_machine.svg?branch=master)](https://travis-ci.org/nosolopau/pretends_like_state_machine)
 [![Code Climate](https://codeclimate.com/github/nosolopau/pretends_like_state_machine/badges/gpa.svg)](https://codeclimate.com/github/nosolopau/pretends_like_state_machine)
 [![Dependency Status](https://gemnasium.com/nosolopau/pretends_like_state_machine.svg)](https://gemnasium.com/nosolopau/pretends_like_state_machine)
+[![Coverage Status](https://coveralls.io/repos/nosolopau/pretends_like_state_machine/badge.png)](https://coveralls.io/r/nosolopau/pretends_like_state_machine)
 
 A minimal, trivial, deadly simple state machine for Mongoid :)
 
