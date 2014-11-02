@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    pretends_like_state_machine (0.0.1)
+    pretends_like_state_machine (0.0.2)
       rails (~> 4.1.0)
 
 GEM
