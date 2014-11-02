@@ -1,3 +1,6 @@
+require 'coveralls'
+Coveralls.wear!
+
 ENV["MONGOID_ENV"] = "test"
 
 require 'test_helper'

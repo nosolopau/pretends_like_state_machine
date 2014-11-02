@@ -14,6 +14,7 @@ gemspec
 # gem 'debugger'
 
 group :development do
-  gem "minitest", ">= 0"
-  gem "bundler", "~> 1.0"
+  gem 'minitest', '>= 0'
+  gem 'bundler', '~> 1.0'
+  gem 'coveralls', require: false
 end
