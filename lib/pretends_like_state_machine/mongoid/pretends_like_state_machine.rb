@@ -8,7 +8,7 @@ module PretendsLikeStateMachine
 
         options[:states].each do |state|
           define_method("#{state}!") do
-            update_attribute(:state, state)
+            set(:state, state)
           end
 
           define_method("#{state}?") do
